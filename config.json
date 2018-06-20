@@ -1,0 +1,6 @@
+{
+    "baseUrl": "SuiteScripts/training scripts/assesment/2.0",
+    "paths": {
+      "customModule": "module/customModule.js"
+    }
+}
