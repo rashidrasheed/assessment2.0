@@ -10,7 +10,6 @@ define(['N/runtime','N/record','N/search','N/ui/serverWidget'],
         var req;
         var res;
         var method;
-        var test111;
         
         function onRequest(context){
 
